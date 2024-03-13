@@ -21,5 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-* test
+*
+* test(gemファイルを追加までは実装)
