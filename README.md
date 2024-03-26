@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 * これはGitHubでのテストです
+* Github修正のコミットのテストです。
