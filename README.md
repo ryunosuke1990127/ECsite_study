@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-* これはGitHubでのテストです(2回目)
+* これはGitHubでのテストです(2回)
