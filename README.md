@@ -22,5 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-* これはGitHubでのテストです
-* Github修正のコミットのテストです。
+* これはGitHubでのテストです(2回)
